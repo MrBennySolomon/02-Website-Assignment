@@ -1,0 +1,23 @@
+{
+  "name": "02-website-assignment-1",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBennySolomon/02-Website-Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrBennySolomon/02-Website-Assignment/issues"
+  },
+  "homepage": "https://github.com/MrBennySolomon/02-Website-Assignment#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
